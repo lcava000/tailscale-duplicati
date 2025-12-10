@@ -19,7 +19,7 @@ One-click installer for [Duplicati](https://duplicati.com) backup server with [T
 
 ```bash
 # Download the installer
-wget https://raw.githubusercontent.com/YOUR_USERNAME/tailscale-duplicati/main/install.sh
+wget https://raw.githubusercontent.com/lcava000/tailscale-duplicati/main/install.sh
 
 # Make it executable
 chmod +x install.sh
